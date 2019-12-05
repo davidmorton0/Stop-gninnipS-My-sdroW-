@@ -1,5 +1,5 @@
-# Stop-gninnipS-My-sdroW- 6 kyu
-Solution for Codewars problem: Stop gninnipS My sdroW!
+# Stop-gninnipS-My-sdroW-
+Solution for Codewars problem: Stop gninnipS My sdroW! - 6 kyu
 
 Details:
 
